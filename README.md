@@ -64,7 +64,7 @@ Before you begin, ensure that you have the following installed:
 
 Here are some screenshots of CyberShield in action:
 
-- **Homepage**: ![Homepage Screenshot](link-to-screenshot)
+- **Homepage**: ![Homepage Screenshot](assets/home_page.png)
 - **Scan Results**: ![Scan Results Screenshot](link-to-screenshot)
 - **Report Generation**: ![Report Generation Screenshot](link-to-screenshot)
 

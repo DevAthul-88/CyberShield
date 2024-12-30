@@ -26,7 +26,7 @@ Before you begin, ensure that you have the following installed:
 
 1. **Download the latest version of CyberShield** for your platform:
    
-   - [Windows Installer](link-to-windows-installer)
+   - [Windows Installer](release/cybershield.exe)
 
 2. **Run the installer** for your platform and follow the on-screen instructions to complete the installation.
 
